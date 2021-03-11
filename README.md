@@ -1,6 +1,6 @@
 # Alfresco SOLR current checker
 
-This project checks peridically the `current` status of a SOLR Core.
+This project checks periodically the `current` status of a SOLR Core.
 
 It can be used to verify that no ongoing indexing process (Metadata, Content, ACL, Cascade) are being executed in Alfresco Search Services.
 
